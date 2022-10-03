@@ -392,7 +392,7 @@ Panel Toggle Features
     - Fix incoming - caching will not enable unless the plugin has been included via repo
     - informative notification to let user know to redploy then toggle
 
-
+...
 
 
 
